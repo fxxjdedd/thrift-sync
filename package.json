@@ -1,0 +1,27 @@
+{
+  "name": "thrift-sync",
+  "version": "1.0.0",
+  "description": "convert thrift file into js file and sync it into project",
+  "main": "index.js",
+  "bin": {
+    "thrift-sync": "bin/thrift-sync.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@v9.git.n.xiaomi.com:futengda/thrift-sync.git"
+  },
+  "keywords": [
+    "thrift",
+    "vue",
+    "react",
+    "npm"
+  ],
+  "author": "futengda@xiaomi.com",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.9"
+  }
+}
