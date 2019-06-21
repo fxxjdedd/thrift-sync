@@ -1,5 +1,5 @@
 {
-  "name": "thrift-sync",
+  "name": "@fe/thrift-sync",
   "version": "1.0.0",
   "description": "convert thrift file into js file and sync it into project",
   "main": "index.js",
