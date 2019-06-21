@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const program = require('commander')
 const minimist = require('minimist')
 const chalk = require('chalk')
