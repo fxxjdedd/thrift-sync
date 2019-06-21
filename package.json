@@ -1,6 +1,6 @@
 {
   "name": "@fe/thrift-sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert thrift file into js file and sync it into project",
   "main": "index.js",
   "bin": {
